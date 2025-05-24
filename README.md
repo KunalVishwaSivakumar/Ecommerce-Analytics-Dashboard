@@ -101,17 +101,6 @@ These views are connected to Tableau to build interactive dashboards for:
 
 -------------------------------------------------------------------------------
 
-ER Diagrams and Tableau Dashboard
----------------------------------
-📌 Entity-Relationship Diagram  
-The ERD illustrates both the normalized OLTP structure and the dimensional OLAP star schema.  
-
-![image](https://github.com/user-attachments/assets/5fc6ad5f-4b5e-4371-8c85-e10c3c67d486)
-
-![image](https://github.com/user-attachments/assets/d3dc88b4-cbd0-4988-9712-85f926c7db68)
-
-
-
 📌 Tableau Dashboard  
 The project includes interactive visualizations answering key business questions:
 - Monthly total quantity per store
